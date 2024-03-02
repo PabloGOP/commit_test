@@ -61,5 +61,3 @@ const Game = () => {
         </Container>
     );
 };
-
-export default Game;
